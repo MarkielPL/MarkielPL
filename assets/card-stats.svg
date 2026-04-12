@@ -4,7 +4,6 @@
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="20" y="50" fill="#00f5ff" font-size="20" font-family="monospace" filter="url(#glow)">
     Dynamic stats generator
   </text>
 

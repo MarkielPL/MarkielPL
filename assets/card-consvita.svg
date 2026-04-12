@@ -1,4 +1,13 @@
 <svg width="420" height="130" xmlns="http://www.w3.org/2000/svg">
+    <style>
+    svg {
+      transition: transform 0.25s ease;
+    }
+
+    svg:hover {
+      transform: scale(1.05);
+    }
+  </style>
   <rect x="5" y="5" width="410" height="120" rx="15"
         fill="#0d1117" stroke="#7c3aed" stroke-width="1.5">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
