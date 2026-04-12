@@ -1,4 +1,4 @@
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Hello world!</h2>
 
 <p align="center">
   <a href="https://github.com/MarkielPL/AnotherArch-PC">
