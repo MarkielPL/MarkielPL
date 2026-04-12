@@ -1,14 +1,14 @@
 <svg width="420" height="130" viewBox="0 0 420 130" xmlns="http://www.w3.org/2000/svg">
-    <style>
+  <style>
     svg {
-      transition: transform 0.25s ease;
+      transition: transform 0.25s ease, filter 0.25s ease;
     }
 
     svg:hover {
       transform: scale(1.05);
+      filter: brightness(1.2);
     }
   </style>
-
   <rect x="5" y="5" width="410" height="120" rx="15"
         fill="#0d1117" stroke="#00f5ff" stroke-width="1.5"
         filter="url(#glow)">
