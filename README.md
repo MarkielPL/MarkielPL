@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Arch+Linux+Enthusiast;Automation+%26+Self-hosting;Building+cool+stuff"/>
 </p>
 
+<br><br>
+
 <!-- ===================== -->
 <!-- 🚀 PROJECTS -->
 <!-- ===================== -->
@@ -26,13 +28,17 @@
   </a>
 </p>
 
+<br>
+
 <!-- ===================== -->
-<!-- 🔻 CLEAN SEPARATOR -->
+<!-- 🔻 SEPARATOR -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3&section=header"/>
 </p>
+
+<br>
 
 <!-- ===================== -->
 <!-- 🤖 EXTERNAL -->
@@ -46,29 +52,40 @@
   </a>
 </p>
 
+<br>
+
+<!-- ===================== -->
+<!-- 🔻 SEPARATOR -->
+<!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3&section=header"/>
 </p>
 
 <br>
-
 
 <!-- ===================== -->
 <!-- 📊 STATS -->
 <!-- ===================== -->
 
+<h2 align="center">📊 Stats</h2>
+
+<!-- rząd 1 -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
-    <a align="center">
-      <img height="170" src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
-    </a>
+  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
+<!-- rząd 2 -->
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
+</p>
 
+<br><br>
 
+<!-- ===================== -->
+<!-- 🧠 TECH STACK -->
+<!-- ===================== -->
 
 <h2 align="center">🧠 Tech Stack</h2>
 
