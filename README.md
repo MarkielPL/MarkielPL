@@ -52,8 +52,8 @@
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-6w5t.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats-kd3u.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
