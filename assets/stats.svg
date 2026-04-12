@@ -1,0 +1,14 @@
+<svg width="500" height="160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { fill: #00f5ff; font-size: 18px; font-family: monospace; }
+    .text { fill: #8b949e; font-size: 14px; font-family: monospace; }
+  </style>
+
+  <rect x="5" y="5" width="490" height="150" rx="15"
+        fill="#0d1117" stroke="#00f5ff" stroke-width="1.5"/>
+
+  <text x="20" y="40" class="title">GitHub Stats</text>
+
+  <image href="https://github-readme-stats.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true"
+         x="20" y="50" width="460" height="90"/>
+</svg>
