@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**MarkielPL/MarkielPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🚀 Featured Projects</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/MarkielPL/AnotherArch-PC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkielPL&repo=AnotherArch-PC&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🐧 Arch Linux installation guide
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarkielPL/ArchArm7v-Rpi3B">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkielPL&repo=ArchArm7v-Rpi3B&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  🍓 Arch Linux on Raspberry Pi 3B
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarkielPL/ConsVita">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkielPL&repo=ConsVita&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/MarkielPL/Tavris1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkielPL&repo=Tavris1&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,python,docker,bash,git"/>
+</p>
