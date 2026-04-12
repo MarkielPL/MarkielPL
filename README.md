@@ -24,12 +24,6 @@
   </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="assets/stats.svg"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
 </p>
