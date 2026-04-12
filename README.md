@@ -52,9 +52,8 @@
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats-6w5t.vercel.app/api?username=markielpl)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-6w5t.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-6w5t.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
