@@ -4,22 +4,10 @@
 <!-- 🚀 MAIN PROJECTS -->
 <!-- ===================== -->
 
-<p align="left">
-  <a href="https://github.com/MarkielPL/AnotherArch-PC">
-    <img src="assets/card-anotherarch.svg" width="320"/>
-  </a>
-</p>
-
 <p align="center">
-  <a href="https://github.com/MarkielPL/ArchArm7v-Rpi3B">
-    <img src="assets/card-rpi.svg" width="320"/>
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://github.com/MarkielPL/ConsVita">
-    <img src="assets/card-consvita.svg" width="320"/>
-  </a>
+  <a href="https://github.com/MarkielPL/AnotherArch-P"><img src="assets/card-anotherarch.svg" width="320" width="30%"/></a>
+  <a href="https://github.com/MarkielPL/ArchArm7v-Rpi3B"><img src="assets/card-rpi.svg" width="320" width="30%"/></a>
+  <a href="https://github.com/MarkielPL/ConsVita"><img src="assets/card-consvita.svg" width="320" width="30%"/></a>
 </p>
 
 <!-- ===================== -->
