@@ -74,15 +74,16 @@
 <!--  <h2 align="center">📊 Stats</h2> -->
 
 <!-- rząd 1 -->
-<p align="center">
+<p align="left">
   <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkielPL&theme=tokyonight"/>
-  
+  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- rząd 2 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkielPL&theme=tokyonight"/>
+    
+
 </p>
 
 <br>
