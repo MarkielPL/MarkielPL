@@ -1,0 +1,32 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="5" y="5" width="390" height="110" rx="15"
+        fill="#0d1117" stroke="#00f5ff" stroke-width="1.5"
+        filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Title -->
+  <text x="20" y="45" fill="#00f5ff" font-size="20" font-family="Arial"
+        filter="url(#glow)">
+    AnotherArch-PC
+  </text>
+
+  <!-- Description -->
+  <text x="20" y="75" fill="#c9d1d9" font-size="14" font-family="Arial">
+    Arch Linux installation guide
+  </text>
+
+  <!-- Emoji -->
+  <text x="350" y="45" font-size="28">🐧</text>
+</svg>
