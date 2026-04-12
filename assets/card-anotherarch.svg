@@ -1,7 +1,7 @@
-<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="420" height="130" viewBox="0 0 420 130" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -9,24 +9,19 @@
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect x="5" y="5" width="390" height="110" rx="15"
+  <rect x="5" y="5" width="410" height="120" rx="15"
         fill="#0d1117" stroke="#00f5ff" stroke-width="1.5"
         filter="url(#glow)">
-    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Title -->
-  <text x="20" y="45" fill="#00f5ff" font-size="20" font-family="Arial"
-        filter="url(#glow)">
+  <text x="20" y="50" fill="#00f5ff" font-size="20" font-family="monospace" filter="url(#glow)">
     AnotherArch-PC
   </text>
 
-  <!-- Description -->
-  <text x="20" y="75" fill="#c9d1d9" font-size="14" font-family="Arial">
-    Arch Linux installation guide
+  <text x="20" y="80" fill="#8b949e" font-size="14" font-family="monospace">
+    Arch install guide (x86-64)
   </text>
 
-  <!-- Emoji -->
-  <text x="350" y="45" font-size="28">🐧</text>
+  <text x="360" y="55" font-size="28">🐧</text>
 </svg>
