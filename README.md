@@ -2,12 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/MarkielPL/AnotherArch-PC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkielPL&repo=AnotherArch-PC&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkielPL&repo=AnotherArch-PC&theme=tokyonight&hide_border=true"/>
   </a>
-</p>
-
-<p align="center">
-  🐧 Arch Linux installation guide
 </p>
 
 <p align="center">
