@@ -45,6 +45,14 @@
     <img src="assets/card-tavris.svg" width="40%"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=2&section=header"/>
+</p>
+
+<br>
+
+
 <!-- ===================== -->
 <!-- 📊 STATS -->
 <!-- ===================== -->
