@@ -12,13 +12,12 @@
         fill="#0d1117" stroke="#00ffa6" stroke-width="1.5">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
   </rect>
-
   <text x="20" y="50" fill="#58a6ff" font-size="20" font-family="monospace">
-  ComfyUI-EZi
+      ComfyUI-EZi
   </text>
 
   <text x="20" y="80" fill="#8b949e" font-size="14" font-family="monospace">
-  Tavris1
+    Tavris1
   </text>
 
   <text x="360" y="55" font-size="28">🤖</text>

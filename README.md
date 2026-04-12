@@ -50,6 +50,9 @@
   <a href="https://github.com/MarkielPL/Tavris1">
     <img src="assets/card-tavris.svg" width="40%"/>
   </a>
+    <a href="https://github.com/MarkielPL/github-readme-stats">
+    <img src="assets/card-stats.svg" width="40%"/>
+  </a>
 </p>
 
 <br>
@@ -68,26 +71,24 @@
 <!-- 📊 STATS -->
 <!-- ===================== -->
 
-<h2 align="center">📊 Stats</h2>
+<!--  <h2 align="center">📊 Stats</h2> -->
 
 <!-- rząd 1 -->
 <p align="center">
   <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- rząd 2 -->
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br><br>
+<br>
 
 <!-- ===================== -->
 <!-- 🧠 TECH STACK -->
 <!-- ===================== -->
-
-<h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,python,docker,bash,git&theme=dark"/>
