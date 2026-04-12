@@ -46,6 +46,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=2&section=header"/>
 </p>
@@ -60,9 +61,9 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
+    <a align="center">
+      <img height="160" src="https://streak-stats.demolab.com?user=MarkielPL&theme=tokyonight&hide_border=true"/>
+    </a>
 </p>
 
 <br>
