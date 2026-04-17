@@ -94,5 +94,31 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,python,docker,bash,git&theme=dark"/>
+<p align="center">
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img height="48" src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  </a>
+
+  <a href="https://archlinux.org/" target="_blank">
+    <img height="48" src="https://skillicons.dev/icons?i=arch&theme=dark" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img height="48" src="https://skillicons.dev/icons?i=python&theme=dark" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img height="48" src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img height="48" src="https://skillicons.dev/icons?i=bash&theme=dark" />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" />
+  </a>
+
+</p>
 </p>
