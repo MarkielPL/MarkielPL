@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&speed=25&pause=3000&cursor=true&lines=Arch+Linux+Enthusiast;Automation+%26+Self-hosting;Building+cool+stuff"/>
 </p>
 
-<br><br>
 
 <!-- ===================== -->
 <!-- 🚀 PROJECTS -->
@@ -28,7 +27,6 @@
   </a>
 </p>
 
-<br>
 
 <!-- ===================== -->
 <!-- 🔻 SEPARATOR -->
@@ -38,7 +36,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3&section=header"/>
 </p>
 
-<br>
 
 <!-- ===================== -->
 <!-- 🤖 EXTERNAL -->
@@ -55,7 +52,6 @@
   </a>
 </p>
 
-<br>
 
 <!-- ===================== -->
 <!-- 🔻 SEPARATOR -->
