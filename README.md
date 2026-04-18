@@ -71,8 +71,8 @@
 
 <!-- rząd 1 -->
 <p align="left">
-  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-sepia-iota-58.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-u2py.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-u2py.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
   
 </p>
 
@@ -90,7 +90,7 @@
 <!-- ===================== -->
 
 <p align="center">
-<p align="center">
+<!--<p align="center"> -->
 
   <a href="https://www.linux.org/" target="_blank">
     <img height="48" src="https://skillicons.dev/icons?i=linux&theme=dark" />
