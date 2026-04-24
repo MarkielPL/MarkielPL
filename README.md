@@ -86,15 +86,15 @@
 <!--  <h2 align="center">📊 Stats</h2> -->
 
 <!-- rząd 1 -->
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats-u2py.vercel.app/api?username=MarkielPL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="165" src="https://github-readme-stats-u2py.vercel.app/api/top-langs/?username=MarkielPL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
   
 </p>
 
 <!-- rząd 2 -->
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkielPL&theme=tokyonight" width="665"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkielPL&theme=tokyonight" width="663"/>
     
 
 </p>
