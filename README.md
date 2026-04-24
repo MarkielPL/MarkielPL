@@ -94,7 +94,7 @@
 
 <!-- rząd 2 -->
 <p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkielPL&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkielPL&theme=tokyonight" width="665"/>
     
 
 </p>
