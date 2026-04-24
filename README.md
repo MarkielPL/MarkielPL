@@ -16,8 +16,8 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> </h1>
-I'm Markiel
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Markiel
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&speed=25&pause=3000&cursor=true&lines=Arch+Linux+Enthusiast;Automation+%26+Self-hosting;Building+cool+stuff"/>
