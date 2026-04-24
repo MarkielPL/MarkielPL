@@ -32,13 +32,13 @@
 
 <p align="center">
   <a href="https://github.com/MarkielPL/AnotherArch-PC">
-    <img src="assets/card-anotherarch.svg" width="30%"/>
+    <img src="assets/card-anotherarch.svg" width="30%" style="height:110px; object-fit:cover;/>
   </a>
   <a href="https://github.com/MarkielPL/ArchArm7v-Rpi3B">
-    <img src="assets/card-rpi.svg" width="30%"/>
+    <img src="assets/card-rpi.svg" width="30%" style="height:110px; object-fit:cover;/>
   </a>
   <a href="https://github.com/MarkielPL/ConsVita">
-    <img src="assets/card-consvita.svg" width="30%"/>
+    <img src="assets/card-consvita.svg" width="30%" style="height:110px; object-fit:cover;/>
   </a>
 </p>
 
@@ -61,10 +61,10 @@
 
 <p align="center">
   <a href="https://github.com/MarkielPL/Tavris1">
-    <img src="assets/card-tavris.svg" width="40%"/>
+    <img src="assets/card-tavris.svg" width="40%" style="height:110px; object-fit:cover;/>
   </a>
     <a href="https://github.com/MarkielPL/github-readme-stats">
-    <img src="assets/card-stats.svg" width="40%"/>
+    <img src="assets/card-stats.svg" width="40%" style="height:110px; object-fit:cover;/>
   </a>
 </p>
 
