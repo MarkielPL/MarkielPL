@@ -28,29 +28,92 @@
 <!-- 🚀 PROJECTS -->
 <!-- ===================== -->
 
+<!-- ===================== -->
+<!-- rząd I
+<!-- ===================== -->
+
 <h2 align="center">Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/MarkielPL/AnotherArch-PC">
-    <img src="assets/card-anotherarch.svg" width="30%"/>
-  </a>
-  <a href="https://github.com/MarkielPL/ArchArm7v-Rpi3B">
-    <img src="assets/card-rpi.svg" width="30%"/>
-  </a>
-  <a href="https://github.com/MarkielPL/ConsVita">
-    <img src="assets/card-consvita.svg" width="30%"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="33%">
+
+<a href="https://github.com/MarkielPL/AnotherArch-PC" style="text-decoration:none;">
+<div style="
+  border:1px solid #00ffff;
+  border-radius:12px;
+  padding:12px;
+  background-color:#0d1117;
+  color:white;
+">
+  <div style="display:flex; align-items:center;">
+    <img src="assets/ico/Arch_icon.svg" style="height:60px; width:60px; margin-right:12px;">
+    <div>
+      <strong>AnotherArch-PC</strong><br>
+      <span style="color:#8b949e;">Arch install guide (x86-64)</span>
+    </div>
+  </div>
+</div>
+</a>
+
+</td>
+
+<td width="33%">
+
+<a href="https://github.com/MarkielPL/ArchArm7v-Rpi3B" style="text-decoration:none;">
+<div style="
+  border:1px solid #ff4d4d;
+  border-radius:12px;
+  padding:12px;
+  background-color:#0d1117;
+  color:white;
+">
+  <div style="display:flex; align-items:center;">
+    <img src="assets/ico/rpi_logo.svg" style="height:60px; width:60px; margin-right:12px;">
+    <div>
+      <strong>ArchArm7v-Rpi3B</strong><br>
+      <span style="color:#8b949e;">Arch Linux on Raspberry Pi 3B+</span>
+    </div>
+  </div>
+</div>
+</a>
+
+</td>
+
+<td width="33%">
+
+<a href="https://github.com/MarkielPL/ConsVita" style="text-decoration:none;">
+<div style="
+  border:1px solid #a855f7;
+  border-radius:12px;
+  padding:12px;
+  background-color:#0d1117;
+  color:white;
+">
+  <div style="display:flex; align-items:center;">
+    <img src="assets/ico/telephone.svg" style="height:60px; width:60px; margin-right:12px;">
+    <div>
+      <strong>ConsVita</strong><br>
+      <span style="color:#8b949e;">Custom project Flutter/Dart</span>
+    </div>
+  </div>
+</div>
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== -->
+<!-- rząd II
+<!-- ===================== -->
+
 
 
 <!-- ===================== -->
 <!-- 🔻 SEPARATOR -->
 <!-- ===================== -->
-<!-- ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3&section=header"/>
-</p>
 
 
 <!-- ===================== -->
@@ -59,14 +122,55 @@
 
 <h2 align="center">External Project</h2>
 
-<p align="center">
-  <a href="https://github.com/MarkielPL/Tavris1">
-    <img src="assets/card-tavris.svg" width="40%"/>
-  </a>
-    <a href="https://github.com/MarkielPL/github-readme-stats">
-    <img src="assets/card-stats.svg" width="40%"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/MarkielPL/Tavris1" style="text-decoration:none;">
+<div style="
+  border:1px solid #00ffff;
+  border-radius:12px;
+  padding:12px;
+  background-color:#0d1117;
+  color:white;
+">
+  <div style="display:flex; align-items:center;">
+    <img src="assets/ico/comfyui.svg" style="height:60px; width:60px; margin-right:12px;">
+    <div>
+      <strong>Tavris1</strong><br>
+      <span style="color:#8b949e;">ComfyUI workflows & tools</span>
+    </div>
+  </div>
+</div>
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/MarkielPL/github-readme-stats" style="text-decoration:none;">
+<div style="
+  border:1px solid #58a6ff;
+  border-radius:12px;
+  padding:12px;
+  background-color:#0d1117;
+  color:white;
+">
+  <div style="display:flex; align-items:center;">
+    <img src="assets/ico/stats.svg" style="height:60px; width:60px; margin-right:12px;">
+    <div>
+      <strong>GitHub Stats</strong><br>
+      <span style="color:#8b949e;">Custom README statistics</span>
+    </div>
+  </div>
+</div>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 
 <!-- ===================== -->
@@ -132,6 +236,11 @@
     <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" />
   </a>
 
+<a href="https://www.proxmox.com/en/" target="_blank">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" />
+
+</a>
+</a>
 </p>
 </p>
 
