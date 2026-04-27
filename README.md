@@ -16,6 +16,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Markiel
 </h1>
 
@@ -122,17 +123,33 @@
 
 <h2 align="center">External Project</h2>
 
-<p align="center">
-  <a href="https://github.com/MarkielPL/Tavris1">
-    <img src="assets/ico/comfyui.svg" width="7%"/>
-  </a>
-    <a href="https://github.com/MarkielPL/github-readme-stats">
-    <img src="assets/ico/stats.svg" width="7%"/>
-  </a>
-    <a href="https://github.com/MarkielPL/proxmox-on-raspberry">
-    <img src="assets/ico/AA.jpg" width="7%"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://github.com/MarkielPL/Tavris1">
+<img src="assets/ico/comfyui.svg" height="60"><br>
+<b>Tavris1</b><br>
+<sub>ComfyUI workflows</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/MarkielPL/github-readme-stats">
+<img src="assets/ico/stats.svg" height="60"><br>
+<b>GitHub Stats</b><br>
+<sub>GitHub Stats</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/MarkielPL/proxmox-on-raspberry">
+<img src="assets/ico/AA.jpg" height="60"><br>
+<b>Automation Avenue</b><br>
+<sub>PXVIRT Proxmox fork</sub>
+</a>
+</td>
+
 
 
 <table align="center">
